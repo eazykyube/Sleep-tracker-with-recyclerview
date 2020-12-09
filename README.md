@@ -6,3 +6,7 @@ It was implemented within the Developing Android Apps with Kotlin on Udacity, th
 
 > https://github.com/udacity/andfun-kotlin-sleep-tracker-with-recyclerview/tree/starter-code
 
+## Screenshot
+
+![](https://drive.google.com/uc?export=view&id=199H5bjszhs5As6tua4_sqyDIXqJdFd5a)
+
